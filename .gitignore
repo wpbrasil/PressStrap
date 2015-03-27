@@ -1,3 +1,5 @@
+.DS_Store
+.sass-cache/**
 .htaccess
 wp-content/uploads/
 wp-content/blogs.dir/
