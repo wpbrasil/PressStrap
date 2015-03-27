@@ -1,0 +1,11 @@
+// Blog Posts Index
+
+// The blog posts index is displayed on the site front page
+.home {
+	&.blog { }
+}
+
+// The blog posts index is displayed on a static page
+.page {
+	&.blog { }
+}

@@ -1,0 +1,9 @@
+// Front Page
+
+.home {
+	// The site front page displays the blog posts index
+	&.blog { }
+
+	// The site front page displays a static page
+	&.page { }
+}

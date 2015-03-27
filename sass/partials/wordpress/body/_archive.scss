@@ -1,0 +1,29 @@
+.archive {
+	&.author { }
+
+	&.author-user_nicename { }
+
+	&.category { }
+
+	&.category-SLUG { }
+
+	&.tag { }
+
+	&.tag-slug { }
+}
+
+.date { }
+
+.post-type-archive {
+	&.post-type-archive-YOURPOSTTYPE { }
+}
+
+.tax-TAXONOMY { }
+
+.term-TERM { }
+
+.term-TERMID { }
+
+.tax-post_format { }
+
+.term-post-format-FORMAT { }

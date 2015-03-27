@@ -1,0 +1,15 @@
+.page {
+	&.page-id-ID { }
+}
+
+.page-parent { }
+
+.page-child {
+	.parent-pageid-ID { }
+}
+
+.page-template {
+	&.page-template-default { }
+	
+	&.age-template-DIRECTORYFILENAME-php { }
+}

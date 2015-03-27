@@ -1,0 +1,27 @@
+.commentlist {
+	li {
+		.children {
+			li {
+				&.alt { }
+
+				&.byuser { }
+
+				&.comment { }
+
+				&.depth-ID { }
+
+				&.bypostauthor { }
+
+				&.comment-author-admin { }
+			}
+		}
+
+		ul.children {
+			.alt { }
+
+			.odd { }
+
+			.even { }
+		}
+	}
+}
