@@ -4,10 +4,10 @@
     <title>Press Strap Framework</title>
     <description>This is a Cool Sass based Framework to help you to start you WordPress Stylesheet Theme file
 </description>
-    <link>http://presstrap.github.io/</link>
-    <atom:link href="http://presstrap.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Mar 2016 12:21:33 -0300</pubDate>
-    <lastBuildDate>Wed, 16 Mar 2016 12:21:33 -0300</lastBuildDate>
+    <link>http://wpbrasil.github.io/PressStrap/</link>
+    <atom:link href="http://wpbrasil.github.io/PressStrap/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Mar 2016 13:02:49 -0300</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 13:02:49 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 16 Mar 2016 08:58:50 -0300</pubDate>
-        <link>http://presstrap.github.io/jekyll/update/2016/03/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://presstrap.github.io/jekyll/update/2016/03/16/welcome-to-jekyll.html</guid>
+        <link>http://wpbrasil.github.io/PressStrap/jekyll/update/2016/03/16/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://wpbrasil.github.io/PressStrap/jekyll/update/2016/03/16/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
