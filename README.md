@@ -1,4 +1,4 @@
 PressStrap
 ==========
 
-The front-end framework for developing responsive projects on the WordPress.
+[http://wpbrasil.github.io/PressStrap/](http://wpbrasil.github.io/PressStrap/)
